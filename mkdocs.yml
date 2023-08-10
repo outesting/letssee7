@@ -3,6 +3,7 @@ site_description: asdsad
 
 nav:
   - Introduction: index.md
+  - APIs: APIs.md
 
 plugins:
   - techdocs-core
